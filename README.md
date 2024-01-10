@@ -29,3 +29,8 @@ This example runs against the *lts* version of SonarQube (currently SonarQube 8.
 
 ## Need further support?
 Contact me if you need help at tom@tomgregory.com.
+
+### Reference
+https://www.youtube.com/watch?v=jrksCo-M1Ns
+https://jenkinshero.com/sonarqube-quality-gates-in-jenkins-build-pipeline/
+https://www.youtube.com/watch?v=6BTOd0X8UCs
